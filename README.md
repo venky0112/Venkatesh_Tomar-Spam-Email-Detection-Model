@@ -16,20 +16,9 @@ You can install the required dependencies using pip:
 pip install numpy pandas scikit-learn
 ```
 
-## Usage
+## Working
 
-1. Clone the repository:
-
-```bash
-git clone <repository_url>
-cd <repository_directory>
-```
-
-2. Ensure you have a CSV file containing email data. By default, the code assumes the file is named `spam.csv` and contains columns named `Message` and `Category` (spam or ham).
-
-3. Run the Jupyter Notebook script:
-
-The script will perform the following steps:
+1. Ensure you have a CSV file containing email data. By default, the code assumes the file is named `spam.csv` and contains columns named `Message` and `Category` (spam or ham).
 
 ### Data Collection & Pre-Processing
 
